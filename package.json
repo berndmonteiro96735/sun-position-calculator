@@ -1,6 +1,6 @@
 {
   "name": "sun-position-calculator",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calculates solar noon, sunrise, sunset, and twilight times for a given latitude, longitude, and date using standard astronomical algorithms.",
   "type": "module",
   "main": "src/index.js",
